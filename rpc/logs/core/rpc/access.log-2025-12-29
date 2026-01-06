@@ -1,0 +1,3 @@
+{"@timestamp":"2025-12-29T23:32:28.128-08:00","caller":"prometheus/agent.go:40","content":"Starting prometheus agent at 0.0.0.0:4001","level":"info"}
+{"@timestamp":"2025-12-29T23:43:25.357-08:00","caller":"serverinterceptors/statinterceptor.go:77","content":"127.0.0.1:61420 - /core.Core/initDatabase - {}","duration":"198.1ms","level":"info","span":"f28623e5fd8121d5","trace":"34281eed889b4b747f0bd5687b634c53"}
+{"@timestamp":"2025-12-29T23:53:23.529-08:00","caller":"serverinterceptors/statinterceptor.go:77","content":"127.0.0.1:63232 - /core.Core/initDatabase - {}","duration":"172.4ms","level":"info","span":"4bcf138cb306905b","trace":"30573f77f87957709ab7709664e8fdea"}
